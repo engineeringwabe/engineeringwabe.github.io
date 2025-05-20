@@ -7,7 +7,7 @@ skills:
   - CAD & 3D Modeling
   - Rapid Prototyping
   - Mechatronics Integration
-main-image: /assets/images/sowbot.webp
+main-image: /assets/images/_projects/SowBot/sowbot.png
 ---
 
 ### Overview  
