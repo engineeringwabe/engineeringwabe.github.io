@@ -14,7 +14,7 @@ skills:
   - C/C++ (ESP32)
   - Team Collaboration & Teamwork
   - Debugging & Testing
-main-image: /projects/sowbot.png
+main-image: /sowbot.png
 ---
 
 
