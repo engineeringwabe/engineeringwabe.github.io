@@ -1,7 +1,7 @@
 ---
 layout: project
 title: "SowBot – Autonomous Reforestation Robot"
-description: >
+description:
   SowBot is a reforestation robot developed to assist park rangers and conservation
   teams in planting seeds across difficult, off-road terrain. Our goal was to reduce the
   physical labor and time required for ecosystem restoration using a modular, robust robot
@@ -14,7 +14,7 @@ skills:
   - C/C++ (ESP32)
   - Team Collaboration & Teamwork
   - Debugging & Testing
-main-image: /assets/images/projects/sowbot.png
+main-image: /projects/sowbot.png
 ---
 
 
