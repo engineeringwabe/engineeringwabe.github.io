@@ -16,11 +16,15 @@ skills:
 main-image: /sowbot.png
 
 ---
-# Header 1 
-Used for the title (already generated automatically at the top)
-## Header 2  
-Use this for the header of each section
-### Header 3 
+## Header My Role  
+I led the design and fabrication of the hopper system, using Onshape for CAD modeling and rapid prototyping techniques to bring it to life. The process began with brainstorming different hopper concepts. Our design was guided by two key constraints: the motor needed enough torque to rotate a consistent number of seeds, and the mechanism had to ensure reliable seed delivery. Drawing inspiration from a carousel, we developed a system in which a wheel is mounted on a drive shaft, connected to a motor via a coupling. By using a stepper motor to rotate the wheel in 1/3 increments, we could accurately prime the hopper for seed deployment.
+
+Contributions: I assisted in debugging and refining the codebase, including tuning PID 
+controllers to improve performance. I also played a key role in integrating the control system,
+using the ESP32 microcontroller to coordinate motor drivers and subsystem timing. I collaborated closely with teammates throughout the project to fine-tune various components and ensure
+smooth system integration.
+
+## Challenges/Lessons
 Use this to have subsection if needed
 
 
