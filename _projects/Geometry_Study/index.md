@@ -1,7 +1,13 @@
 ---
 layout: post
-title: Composite Heat Shield Using FDM
-description:This project investigates the use of Fused Deposition Modeling (FDM) to fabricate heat shield tiles featuring bio-inspired geometries. By conducting controlled thermal tests on a range of geometrical designs, the study aims to identify configurations that best preserve structural integrity over time. This research integrates additive manufacturing with nature inspired engineering to advance lightweight, thermally robust solutions for aerospace and other high-temperature applications.
+title: "Composite Heat Shield Using FDM"
+description: >
+  This project investigates the use of Fused Deposition Modeling (FDM) to fabricate heat shield
+  tiles featuring bio-inspired geometries. By conducting controlled thermal tests on a range of
+  geometrical designs, the study aims to identify configurations that best preserve structural
+  integrity over time. This research integrates additive manufacturing with nature-inspired
+  engineering to advance lightweight, thermally robust solutions for aerospace and other
+  high-temperature applications.
 skills: 
   - CAD & 3D Modeling
   - ANSYS Simulations
@@ -9,8 +15,8 @@ skills:
   - Team Collaboration & Teamwork
   - Analysis
 main-image: /main.png
-
 ---
+
 ## Contribution 
 The primary goal of this project was to examine how different structural patterns affect thermal resistance and deformation when exposed to high temperatures. We began by researching materials best suited for our design constraints and thermal requirements. In parallel, we developed four geometric categories for our test samples: a flat plate (control), two honeycomb variations, three spike-based geometries, and two scale-like patterns.
 
