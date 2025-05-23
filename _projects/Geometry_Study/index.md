@@ -1,12 +1,7 @@
 ---
 layout: post
-title: SowBot – Composite Heat Shield Using FDM
-description:This project investigates the use of Fused Deposition Modeling (FDM) to fabricate
-heat shield tiles featuring bio-inspired geometries. By conducting controlled thermal tests on a 
-range of geometrical designs, the study aims to identify configurations that best preserve
-structural integrity over time. This research integrates additive manufacturing with nature
-inspired engineering to advance lightweight, thermally robust solutions for aerospace and other
-high-temperature applications.
+title: Composite Heat Shield Using FDM
+description:This project investigates the use of Fused Deposition Modeling (FDM) to fabricate heat shield tiles featuring bio-inspired geometries. By conducting controlled thermal tests on a range of geometrical designs, the study aims to identify configurations that best preserve structural integrity over time. This research integrates additive manufacturing with nature inspired engineering to advance lightweight, thermally robust solutions for aerospace and other high-temperature applications.
 skills: 
   - CAD & 3D Modeling
   - ANSYS Simulations
