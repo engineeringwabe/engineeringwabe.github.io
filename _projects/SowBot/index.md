@@ -16,14 +16,22 @@ skills:
 main-image: /mainone.png
 
 ---
-## Header Hopper Sub-System  
+## Hopper Sub-System  
 I led the design and fabrication of the hopper system, using Onshape for CAD modeling and rapid prototyping techniques to bring it to life. The process began with brainstorming different hopper concepts. Our design was guided by two key constraints: the motor needed enough torque to rotate a consistent number of seeds, and the mechanism had to ensure reliable seed delivery of 3-5 seeds. Drawing inspiration from a carousel, we developed a system in which a wheel is mounted on a drive shaft, connected to a motor via a coupling. By using a stepper motor to rotate the wheel in 1/3 increments, we could accurately prime the hopper for seed deployment. The wheel driving the separation of seeds was subjected to iteration, making the number of seeds per deployment more reliable. 
 
-{% include image-gallery.html images="hopper.png" height="400" %} 
+<div style="text-align: center;">
+  {% include image-gallery.html images="hopper.png" height="400" %}
+</div>
 
-##Integration 
-{% include image-gallery.html images="sowbot.png" height="400" %}
-n addition to designing the hopper system, I contributed to other subsystems to support overall integration. I developed the control code for the hopper, including a shimmying action before seed deployment to reduce jamming. I also assisted in debugging and refining the codebase, which included tuning PID controllers to enhance system performance. A key part of my role involved integrating the control system using the ESP32 microcontroller to coordinate motor drivers and subsystem timing. Throughout the project, I collaborated closely with teammates to fine-tune components and ensure smooth, cohesive operation.
+
+## Integration 
+<div style="text-align: center;">
+  {% include image-gallery.html images="sowbot.png" height="400" %}
+</div>
+
+In addition to designing the hopper system, I contributed to other subsystems to support overall integration. I developed the control code for the hopper, including a shimmying action before seed deployment to reduce jamming. I also assisted in debugging and refining the codebase, which included tuning PID controllers to enhance system performance. A key part of my role involved integrating the control system using the ESP32 microcontroller to coordinate motor drivers and subsystem timing. Throughout the project, I collaborated closely with teammates to fine-tune components and ensure smooth, cohesive operation.
+
+ADD A VIDEO HERE SHOWING IT WORKING
 
 ## Challenges/Lessons
  One of our biggest challenges was ensuring that each subsystem functioned reliably when 
