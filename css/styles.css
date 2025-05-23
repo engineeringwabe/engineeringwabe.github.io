@@ -944,12 +944,13 @@ footer p {
         padding: 5px;
       }
 
-    .center-image {
+  
+
+}
+
+  .center-image {
       display: block;
       margin-left: auto;
       margin-right: auto;
       text-align: center;
       }
-
-}
-
