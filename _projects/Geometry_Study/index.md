@@ -21,11 +21,13 @@ The primary goal of this project was to examine how different structural pattern
 
 After selecting a suitable material, we imported our CAD models into ANSYS. Due to limited time and resources, we used simulations to identify the highest-performing geometries before moving to physical testing. We conducted transient thermal conduction simulations in ANSYS by assigning material properties, generating an appropriate mesh, applying boundary conditions, and analyzing the resulting thermal profiles.
 
-{% include image-gallery.html images="spikes.png""flat.png" height="400" class="center-image" %}
+{% include image-gallery.html images="spikes.png,flat.png" height="400" class="center-image" %}
+
 
 Once we validated the simulation results, we selected the top-performing geometries and fabricated them using carbon fiber nylon. We conducted physical tests using a controlled jig setup and a heat gun, keeping variables consistent across trials. To benchmark performance, we tested both carbon fiber nylon and standard nylon samples. In the end, our results showed clear trends that supported the findings from our simulations.
 
-{% include image-gallery.html images="jig.png""main.png" height="400" class="center-image" %}
+{% include image-gallery.html images="jig.png,main.png" height="400" class="center-image" %}
+
 
 ---
 ## Challenges/Lessons
