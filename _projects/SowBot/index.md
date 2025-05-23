@@ -29,7 +29,22 @@ I led the design and fabrication of the hopper system, using Onshape for CAD mod
 
 In addition to designing the hopper system, I contributed to other subsystems to support overall integration. I developed the control code for the hopper, including a shimmying action before seed deployment to reduce jamming. I also assisted in debugging and refining the codebase, which included tuning PID controllers to enhance system performance. A key part of my role involved integrating the control system using the ESP32 microcontroller to coordinate motor drivers and subsystem timing. Throughout the project, I collaborated closely with teammates to fine-tune components and ensure smooth, cohesive operation.
 
-ADD A VIDEO HERE SHOWING IT WORKING
+<div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center;">
+  <iframe 
+    src="https://drive.google.com/file/d/1m13GEsIZ6455jdMWJlNQItRlpvLleaXC/view?usp=sharing" 
+    width="480" 
+    height="270" 
+    allowfullscreen>
+  </iframe>
+
+  <iframe 
+    src="https://drive.google.com/file/d/1xCHdNiT26Q4H63RCSos_WXoL1GXe5sSa/view?usp=sharing" 
+    width="480" 
+    height="270" 
+    allowfullscreen>
+  </iframe>
+</div>
+
 ---
 ## Challenges/Lessons
  One of our biggest challenges was ensuring that each subsystem functioned reliably when 
