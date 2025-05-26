@@ -1,16 +1,15 @@
 ---
 layout: post
-title: Manufacturing Fiber-Reinforced Ceramic Rocket Nozzles at Varying Hoop Angles 
-description: This study presents the ongoing development and planned hot-fire validation of composite and ceramic rocket nozzles manufactured using two distinct methods: additive manufacturing and powder-based sintering. The designs utilize fiber-reinforced materials to endure extreme thermal and mechanical loads. Structural integrity and thermal resistance have been assessed through finite element (FEM) and computational fluid dynamics (CFD) simulations, while internal nozzle flow was analytically modeled using MATLAB and ANSYS. 
-skills: 
+title: Manufacturing Fiber-Reinforced Ceramic Rocket Nozzles at Varying Hoop Angles
+description: This study presents the ongoing development and planned hot-fire validation of composite and ceramic rocket nozzles manufactured using two distinct methods: additive manufacturing and powder-based sintering. The designs utilize fiber-reinforced materials to endure extreme thermal and mechanical loads. Structural integrity and thermal resistance have been assessed through finite element (FEM) and computational fluid dynamics (CFD) simulations, while internal nozzle flow was analytically modeled using MATLAB and ANSYS.
+skills:
   - MATLAB
-  - Aerodynamic design
+  - Aerodynamic Design
   - FEM
   - CFD
   - Thermal Simulations
   - Additive Manufacturing
   - Documentation
-
 main-image: /project2.jpg
 ---
 
