@@ -1,3 +1,6 @@
+---
+---
+
 :root {
   --text-color: {{ site.colors.text }};
   --border-color: {{ site.colors.border }};
@@ -941,13 +944,5 @@ footer p {
         padding: 5px;
       }
 
-  
-
+      
 }
-
-  .center-image {
-      display: block;
-      margin-left: auto;
-      margin-right: auto;
-      text-align: center;
-      }
