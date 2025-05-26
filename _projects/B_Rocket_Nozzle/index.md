@@ -10,7 +10,7 @@ skills:
   - Thermal Simulations
   - Additive Manufacturing
   - Documentation
-main-image: /project2.jpg
+main-image: /useco.png
 ---
 
 
@@ -21,7 +21,11 @@ This study aims to evaluate the manufacturability, performance, and failure resp
 ## Process
 Firstly, compressible flow analysis was conducted to determine the optimal nozzle geometry. This involved using the area–Mach number relation, which provides insight into how flow properties vary along the nozzle contour and helps estimate the necessary exit area to meet desired flow conditions. Following this, MATLAB was used to calculate the thrust and axial distribution within the nozzle. By combining these methods, we generated a nozzle shape using MATLAB plots, which were refined to produce the final design shown in the image below.
 
+{% include image-gallery.html images="uFirst.png" height="400" %} 
+
 Once the desired nozzle contour was established, we proceeded to determine the optimal fiber orientation and wall thickness to ensure structural integrity under thermal and mechanical loading. This was done by plotting the relationship between fiber orientation angle and wall thickness, considering in-plane stress distributions from internal pressure and thermal gradients. These results were then compared to a plot of wall thickness versus safety factor, calculated using maximum stress and Tsai-Wu failure criteria for composite laminates. Material properties were based on Alumina 4N, and assumptions included quasi-isotropic. Once an appropriate wall thickness and orientation were identified to meet a safety factor ≥ 2.0, the final geometry was modeled using Fusion 360 and SolidWorks for visualization and future finite element analysis (FEA).
+
+{% include image-gallery.html images="usec.png""useco.png" height="400" %} 
 
 Finally, the 3D CAD models were used for simulation-based performance evaluations. These simulations included Finite Element Method (FEM) structural analysis, Computational Fluid Dynamics (CFD), and thermal analysis. Thermal and CFD simulations were conducted in ANSYS Fluent and ANSYS Mechanical, allowing us to analyze internal flow characteristics, pressure distributions, heat flux, and temperature gradients within the nozzle during steady-state operation. For structural analysis, we used Altair HyperWorks to perform FEM simulations, evaluating deformation, stress concentrations, and failure modes under combined thermal and mechanical loading. The results from these simulations were used to validate the design and ensure that material limits were not exceeded under expected launch conditions.
 
