@@ -2,7 +2,7 @@
 layout: post
 title: SowBot – Autonomous Reforestation Robot
 description:   SowBot is a reforestation robot developed to assist park rangers and conservation
-  Teams in planting seeds across difficult, off-road terrain. Our goal was to reduce the
+  teams in planting seeds across difficult, off-road terrain. Our goal was to reduce the
   physical labor and time required for ecosystem restoration using a modular, robust robot
   capable of automated digging and seed deposition.
 skills: 
