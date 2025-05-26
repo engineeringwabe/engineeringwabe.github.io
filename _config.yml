@@ -86,13 +86,13 @@ formspree-key:   https://formspree.io/f/xnndrrpb
 
 
 # Active theme (Update this to switch themes). Make sure to keep the indentation the same.
-colors:
-  text: "#1b1f23"              # deep charcoal for strong readability
-  border: "#e1e4e8"            # subtle gray for section separation
-  link: "#007acc"              # confident blue used by VS Code and GitHub
-  highlight: "#d73a49"         # vivid red for emphasis
-  background: "#ffffff"        # clean white for strong contrast
-  light_background: "#f6f8fa"  # soft blue-gray for section contrast
+colors: # this is the basic theme
+  text: "#1b1f23"
+  border: "#e1e4e8"
+  link: "#007acc"
+  highlight: "#d73a49"
+  background: "#ffffff"
+  light_background: "#f3f5fb"
 
 #########################################################################################################
 # Build settings for the site. Editing the below may cause the site to malfunction.
