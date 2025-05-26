@@ -44,6 +44,6 @@ interfaces early in the design process and coordinating realistic timelines acro
 A key difficulty was managing team collaboration—assigning responsibilities, planning meetings,
 and maintaining alignment. Early in the project, we learned that consistent and open communication 
 between subteams is essential to achieve seamless integration of all components into a cohesive system.
----
+
 
 
