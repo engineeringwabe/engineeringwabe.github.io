@@ -33,6 +33,6 @@ Once we validated the simulation results, we selected the top-performing geometr
 ---
 ## Challenges/Lessons
 Another major challenge was that this was our first time using ANSYS for simulation. There was a steep learning curve in understanding how to properly set up the model, apply realistic boundary conditions, and interpret thermal and structural results. It required significant time spent exploring tutorials, troubleshooting errors, and seeking help from peers and instructors. However, this process helped us develop strong foundational skills in simulation and gave us the confidence to integrate it into our design workflow moving forward. Despite these challenges, I gained valuable experience working through uncertainty in a real engineering context.
----
+
 
 
