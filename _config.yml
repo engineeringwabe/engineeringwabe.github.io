@@ -33,7 +33,7 @@ profile_image: assets/images/profile-image/photo_for_portfolio.jpg
 # Set up external links - this will show up as small icons next to your name.
 
 external-links:    # input only your own url slug. The icons with missing entries will not appear.
-  linkedin: www.linkedin.com/in/abrahamg2025     # https://www.linkedin.com/in/{your url slug} 
+  linkedin: https://www.linkedin.com/in/abrahamg2025    # https://www.linkedin.com/in/{your url slug} 
   github: https://github.com/engineeringwabe    # https://github.com/{your url slug} 
   #stackoverflow:       # https://stackoverflow.com/users/{your url slug}
   #medium:            # https://medium.com/@{your url slug} 
