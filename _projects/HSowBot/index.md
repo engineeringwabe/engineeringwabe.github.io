@@ -19,7 +19,8 @@ main-image: /mainone.png
 ## Hopper Sub-System
 <br>
 I led the design and fabrication of the hopper system, using Onshape for CAD modeling and rapid prototyping techniques to bring it to life. The process began with brainstorming different hopper concepts. Our design was guided by two key constraints: the motor needed enough torque to rotate a consistent number of seeds, and the mechanism had to ensure reliable seed delivery of 3-5 seeds. Drawing inspiration from a carousel, we developed a system in which a wheel is mounted on a drive shaft, connected to a motor via a coupling. By using a stepper motor to rotate the wheel in 1/3 increments, we could accurately prime the hopper for seed deployment. The wheel driving the separation of seeds was subjected to iteration, making the number of seeds per deployment more reliable. 
-
+<br>
+During preliminary testing, the hopper system underwent 10 seed deployment trials, with jamming occurring in 6 out of 10 runs, primarily due to seed crowding and inconsistent motion. After implementing a shimmying motion before each seed release, jamming was reduced dramatically to just 1 in 10 runs. Additionally, by resizing the seed wheel, the delivery was refined from an inconsistent 5–8 seeds to a more controlled 2–4 seeds per 1/3 rotation, significantly improving reliability and precision in seed metering.
 {% include image-gallery.html images="hopper.png" height="400" class="center-image" %}
 
 ---
