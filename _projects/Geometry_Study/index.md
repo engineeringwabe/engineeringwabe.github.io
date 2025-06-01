@@ -25,7 +25,9 @@ After selecting a suitable material, we imported our CAD models into ANSYS. Due 
 {% include image-gallery.html images="models.png" height="400" class="center-image" %}
 {% include image-gallery.html images="Sims.png" height="400" class="center-image" %}
 
-Once we validated the simulation results, we selected the top-performing geometries and fabricated them using carbon fiber nylon. We conducted physical tests using a controlled jig setup and a heat gun, keeping variables consistent across trials. To benchmark performance, we tested both carbon fiber nylon and standard nylon samples. In the end, our results showed clear trends that supported the findings from our simulations.
+Once we validated the simulation results, we selected the top-performing geometries and fabricated them using carbon fiber nylon. We conducted physical tests using a controlled jig setup and a heat gun, maintaining consistency in variables across trials. To benchmark performance, we tested both carbon fiber nylon and standard nylon samples. Ultimately, our results revealed clear trends that corroborated the findings from our simulations.
+
+The trials demonstrated that carbon fiber-reinforced nylon significantly enhanced thermal resistance, with prototypes successfully withstanding sustained exposure to high-temperature gradients with longer hat resistance over a period of time. This marks a substantial improvement over unreinforced polymers, confirming the material's suitability for thermal shielding in high-performance propulsion components.
 
 {% include image-gallery.html images="jig.png" height="400" class="center-image" %}
 {% include image-gallery.html images="Set-up.png" height="400" class="center-image" %}
